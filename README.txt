@@ -10,6 +10,7 @@ If the system does not have yarn, then use the following command in the terminal
 
 To load all the necessary packages run the following command in the terminal:
 # npm install
+# yarn install
 
 To run the project run the following command in the terminal:
 # yarn cli
