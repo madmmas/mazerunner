@@ -10,6 +10,7 @@ npm install --global yarn
 To load all the necessary packages run the following command in the terminal:
 ```console
 npm install
+yarn install
 ```
 
 To run the project run the following command in the terminal:
