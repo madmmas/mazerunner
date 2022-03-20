@@ -3,16 +3,24 @@ To run the project it was assumed that you have already nodejs, npm and yarn ins
 
 ---
 If the system does not have yarn, then use the following command in the terminal:
-> npm install --global yarn
+```console
+npm install --global yarn
+```
 
 To load all the necessary packages run the following command in the terminal:
-> npm install
+```console
+npm install
+```
 
 To run the project run the following command in the terminal:
-> yarn cli
+```console
+yarn cli
+```
 
 To test the project run the following command in the terminal:
-> yarn test
+```console
+yarn test
+```
 
 ---
 
