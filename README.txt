@@ -33,7 +33,7 @@ The complexity of the solution is O(NM) where N and M are the number of rows and
 Complexity of the problem:
 The algorithm is based on the concept of DFS. The algorithm is implemented using a stack.
 The algorithm also used memoization to avoid the same node being visited again. 
-The total number of nodes visited is 4*N*M in worst case scenario.
+The total number of nodes visited is 3*N*M in worst case scenario.
 
 ##############################################################################
 
